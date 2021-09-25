@@ -1,113 +1,340 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="826c5efa-27e3-4bbe-915c-2a78eb095394" name="Changes" comment="">
+    <list default="true" id="826c5efa-27e3-4bbe-915c-2a78eb095394" name="Changes" comment="fix compilation issues">
+      <change afterPath="$PROJECT_DIR$/src/com/in28minutes/java/collections/examples/ConcurrentCollectionsExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/interfaces/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/arrays/ArrayExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/basics/Actor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/basics/CricketScorer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/basics/Cricketer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/classmodifiers/defaultaccess/a/AnotherClassInSamePackage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/classmodifiers/defaultaccess/a/DefaultAccessClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/classmodifiers/defaultaccess/b/ClassInDifferentPackage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/classmodifiers/nonaccess/abstractclass/AbstractClassExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/classmodifiers/nonaccess/finalclass/FinalClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/collections/CollectionHierarchy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/collections/FailFast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/collections/FailSafe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/collections/examples/CollectionExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/collections/examples/ConcurrentCollectionsExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/enums/Enum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/enums/EnumAdvanced.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/enums/EnumAdvanced2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/exceptionhandling/ExceptionHandlingExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/exceptionhandling/ExceptionHandlingExample2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/files/ConsoleExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/files/FileExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/flow/BreakExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/flow/ContinueExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/flow/DoWhileLoopExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/flow/ForLoopExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/flow/IfElseExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/flow/SwitchExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/flow/WhileLoopExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/generics/GenericsExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/generics/GenericsExamples2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/generics/GenericsExamples3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/initializers/InitializerExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/innerclass/AnonymousClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/innerclass/InnerClassExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/membermodifiers/access/ExampleClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/membermodifiers/access/SubClassInSamePackage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/membermodifiers/access/TestClassInSamePackage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/membermodifiers/access/different/SubClassInDifferentPackage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/membermodifiers/access/different/TestClassInDifferentPackage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/membermodifiers/nonaccess/FinalMemberModifiersExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/membermodifiers/nonaccess/StaticModifierExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/object/EqualsHashCodeExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/object/ToStringExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/object/constructors/ConstructorExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/cohesion/problem/CohesionExampleProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/cohesion/solution/CohesionExampleSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/coupling/problem/CouplingExamplesProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/coupling/solution/CouplingExamplesSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/encapsulation/EncapsulationExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/EveryClassExtendsObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/InheritanceExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/overloading/OverloadingRules.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/overriding/OverridingRules.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/polymorphism/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/polymorphism/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/polymorphism/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/polymorphism/TestPolymorphism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/reuse/Actor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/reuse/Comedian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/reuse/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/inheritance/reuse/TestReuse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/interfaces/Aeroplane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/interfaces/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/interfaces/Flyable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/interfaces/IntefaceRules.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/interfaces/InterfaceExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/oops/interfaces/InterfaceWithMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/operators/IncrementAndDecrementOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/operators/InstanceOfExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/operators/LogicalOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/operators/RelationalOperators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/operators/StringConcatenationExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/operators/TernaryOperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/others/PrintfExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/others/SameType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/others/assertexample/AssertExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/others/date/CalendarExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/others/date/DateExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/others/garbagecollection/GarbageCollectionExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/others/regularexpressions/RegularExpressionExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/serialization/SerializationExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/serialization/SerializationExamples2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/serialization/SerializationExamples3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/string/StringBufferBuilderExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/string/StringExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/threads/ExecutorServiceExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/threads/ThreadDeadlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/threads/ThreadExampleSynchronized.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/threads/ThreadExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/threads/ThreadPriority.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/threads/ThreadWaitAndNotify.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/varargs/VariableArgumentExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/variables/PassingVariablesToMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/variables/StaticAndMemberVariables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/variables/VariableInitialization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/variables/scope/VariablesExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/com/in28minutes/java/wrapper/WrapperExamples.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/test/java/LambdaExpressionsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/src/test/java/StringVsStringBuffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/arrays/ArrayExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/arrays/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/basics/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/basics/CricketScorer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/basics/Cricketer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/classmodifiers/defaultaccess/a/AnotherClassInSamePackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/classmodifiers/defaultaccess/a/DefaultAccessClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/classmodifiers/defaultaccess/b/ClassInDifferentPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/classmodifiers/nonaccess/abstractclass/AbstractClassExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/classmodifiers/nonaccess/abstractclass/AbstractSubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/classmodifiers/nonaccess/abstractclass/SubClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/classmodifiers/nonaccess/finalclass/FinalClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/ArrayBlockingQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/ArrayDeque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/BlockingQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/Collection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/CollectionHierarchy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/Deque.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/FailFast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/FailSafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/HashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/HashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/Hashtable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/LinkedBlockingQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/LinkedHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/LinkedHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/List.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/Map$Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/NavigableMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/NavigableSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/PriorityQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/SortedMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/SortedSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/TreeMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/TreeSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/Vector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/examples/CollectionExamples$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/examples/CollectionExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/examples/ConcurrentCollectionsExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/examples/Cricketer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/collections/examples/DescendingSorter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/enums/Enum$Season.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/enums/Enum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/enums/EnumAdvanced$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/enums/EnumAdvanced$SeasonCustomized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/enums/EnumAdvanced.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/enums/EnumAdvanced2$SeasonCustomized$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/enums/EnumAdvanced2$SeasonCustomized$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/enums/EnumAdvanced2$SeasonCustomized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/enums/EnumAdvanced2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/enums/SeasonOutsideClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/Amount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/AmountAdder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/CheckedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/CheckedException1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/CheckedException2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/Connection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/CurrenciesDoNotMatchException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/ExceptionHandlingExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/ExceptionHandlingExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/Reuse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/RuntimeExceptionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/UnCheckedException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/exceptionhandling/UnCheckedException2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/files/ConsoleExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/files/FileExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/flow/BreakExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/flow/ContinueExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/flow/DoWhileLoopExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/flow/ForLoopExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/flow/IfElseExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/flow/SwitchExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/flow/WhileLoopExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/generics/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/generics/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/generics/GenericsExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/generics/GenericsExamples2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/generics/GenericsExamples3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/generics/MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/generics/MyListGeneric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/generics/MyListRestricted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/initializers/InitializerExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/innerclass/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/innerclass/AnonymousClass$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/innerclass/AnonymousClass$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/innerclass/AnonymousClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/innerclass/InnerClassExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/innerclass/OuterClass$1MethodLocalInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/innerclass/OuterClass$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/innerclass/OuterClass$StaticNestedClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/innerclass/OuterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/access/ExampleClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/access/SubClassInSamePackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/access/TestClassInSamePackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/access/different/SubClassInDifferentPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/access/different/TestClassInDifferentPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/nonaccess/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/nonaccess/Cricketer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/nonaccess/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/nonaccess/FinalMemberModifiersExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/nonaccess/StaticModifierExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/membermodifiers/nonaccess/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/object/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/object/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/object/EqualsHashCodeExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/object/ToStringExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/object/constructors/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/object/constructors/ConstructorExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/object/constructors/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/cohesion/problem/CohesionExampleProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/cohesion/problem/DownloadAndStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/cohesion/solution/CohesionExampleSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/cohesion/solution/DataParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/cohesion/solution/DatabaseStorer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/cohesion/solution/DownloadAndStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/cohesion/solution/InternetDownloader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/coupling/problem/CouplingExamplesProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/coupling/problem/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/coupling/problem/ShoppingCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/coupling/problem/ShoppingCartEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/coupling/solution/CartContents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/coupling/solution/CouplingExamplesSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/coupling/solution/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/coupling/solution/ShoppingCartEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/encapsulation/CricketScorer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/encapsulation/EncapsulationExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/EveryClassExtendsObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/InheritanceExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/overloading/Bar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/overloading/Foo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/overloading/OverloadingRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/overriding/OverridingRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/overriding/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/overriding/SuperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/polymorphism/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/polymorphism/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/polymorphism/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/polymorphism/TestPolymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/reuse/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/reuse/Comedian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/reuse/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/inheritance/reuse/TestReuse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/interfaces/Aeroplane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/interfaces/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/interfaces/ExampleInterface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/interfaces/ExampleInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/interfaces/Flyable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/interfaces/IntefaceRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/interfaces/InterfaceExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/interfaces/InterfaceWithMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/interfaces/SampleImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/oops/interfaces/SubInterface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/IncrementAndDecrementOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/InstanceOfExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/LogicalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/RelationalOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/SomeOtherClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/StringConcatenationExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/SubClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/SuperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/SuperClassImplementingInteface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/operators/TernaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/Abstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/ConcreteClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/PrintfExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/SameType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/SuperClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/assertexample/AssertExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/date/CalendarExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/date/DateExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/garbagecollection/GarbageCollectionExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/others/regularexpressions/RegularExpressionExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/serialization/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/serialization/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/serialization/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/serialization/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/serialization/SerializationExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/serialization/SerializationExamples2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/serialization/SerializationExamples3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/serialization/Wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/string/StringBufferBuilderExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/string/StringExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ExecutorServiceExamples$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ExecutorServiceExamples$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ExecutorServiceExamples$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ExecutorServiceExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/Resource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/SomeOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/SpreadSheet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/SynchronizedSyntaxExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ThreadDeadlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ThreadExampleSynchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ThreadExamples$1BattingStatisticsThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ThreadExamples$1BowlingStatisticsThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ThreadExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ThreadPriority$1ThreadExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ThreadPriority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/threads/ThreadWaitAndNotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/varargs/VariableArgumentExamples$Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/varargs/VariableArgumentExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/variables/Actor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/variables/Cricketer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/variables/PassingVariablesToMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/variables/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/variables/StaticAndMemberVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/variables/VariableInitialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/variables/scope/VariablesExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/com/nishith/java/wrapper/WrapperExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/test/java/LambdaExpressionsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/out/production/Java/test/java/StringVsStringBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/arrays/ArrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/arrays/ArrayExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/basics/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/basics/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/basics/CricketScorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/basics/CricketScorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/basics/Cricketer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/basics/Cricketer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/classmodifiers/defaultaccess/a/AnotherClassInSamePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/classmodifiers/defaultaccess/a/AnotherClassInSamePackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/classmodifiers/defaultaccess/a/DefaultAccessClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/classmodifiers/defaultaccess/a/DefaultAccessClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/classmodifiers/defaultaccess/b/ClassInDifferentPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/classmodifiers/defaultaccess/b/ClassInDifferentPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/classmodifiers/nonaccess/abstractclass/AbstractClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/classmodifiers/nonaccess/abstractclass/AbstractClassExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/classmodifiers/nonaccess/finalclass/FinalClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/classmodifiers/nonaccess/finalclass/FinalClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/collections/CollectionHierarchy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/collections/CollectionHierarchy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/collections/FailFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/collections/FailFast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/collections/FailSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/collections/FailSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/collections/examples/CollectionExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/collections/examples/CollectionExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/collections/examples/ConcurrentCollectionsExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/enums/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/enums/Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/enums/EnumAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/enums/EnumAdvanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/enums/EnumAdvanced2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/enums/EnumAdvanced2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/exceptionhandling/ExceptionHandlingExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/exceptionhandling/ExceptionHandlingExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/exceptionhandling/ExceptionHandlingExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/exceptionhandling/ExceptionHandlingExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/files/ConsoleExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/files/ConsoleExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/files/FileExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/files/FileExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/flow/BreakExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/flow/BreakExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/flow/ContinueExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/flow/ContinueExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/flow/DoWhileLoopExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/flow/DoWhileLoopExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/flow/ForLoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/flow/ForLoopExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/flow/IfElseExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/flow/IfElseExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/flow/SwitchExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/flow/SwitchExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/flow/WhileLoopExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/flow/WhileLoopExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/generics/GenericsExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/generics/GenericsExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/generics/GenericsExamples2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/generics/GenericsExamples2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/generics/GenericsExamples3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/generics/GenericsExamples3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/initializers/InitializerExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/initializers/InitializerExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/innerclass/AnonymousClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/innerclass/AnonymousClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/innerclass/InnerClassExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/innerclass/InnerClassExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/membermodifiers/access/ExampleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/membermodifiers/access/ExampleClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/membermodifiers/access/SubClassInSamePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/membermodifiers/access/SubClassInSamePackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/membermodifiers/access/TestClassInSamePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/membermodifiers/access/TestClassInSamePackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/membermodifiers/access/different/SubClassInDifferentPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/membermodifiers/access/different/SubClassInDifferentPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/membermodifiers/access/different/TestClassInDifferentPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/membermodifiers/access/different/TestClassInDifferentPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/membermodifiers/nonaccess/FinalMemberModifiersExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/membermodifiers/nonaccess/FinalMemberModifiersExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/membermodifiers/nonaccess/StaticModifierExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/membermodifiers/nonaccess/StaticModifierExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/object/EqualsHashCodeExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/object/EqualsHashCodeExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/object/ToStringExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/object/ToStringExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/object/constructors/ConstructorExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/object/constructors/ConstructorExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/cohesion/problem/CohesionExampleProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/cohesion/problem/CohesionExampleProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/cohesion/solution/CohesionExampleSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/cohesion/solution/CohesionExampleSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/coupling/problem/CouplingExamplesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/coupling/problem/CouplingExamplesProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/coupling/solution/CouplingExamplesSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/coupling/solution/CouplingExamplesSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/encapsulation/EncapsulationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/encapsulation/EncapsulationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/EveryClassExtendsObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/EveryClassExtendsObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/InheritanceExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/InheritanceExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/overloading/OverloadingRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/overloading/OverloadingRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/overriding/OverridingRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/overriding/OverridingRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/polymorphism/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/polymorphism/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/polymorphism/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/polymorphism/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/polymorphism/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/polymorphism/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/polymorphism/TestPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/polymorphism/TestPolymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/reuse/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/reuse/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/reuse/Comedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/reuse/Comedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/reuse/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/reuse/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/inheritance/reuse/TestReuse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/inheritance/reuse/TestReuse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/interfaces/Aeroplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/interfaces/Aeroplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/interfaces/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/interfaces/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/interfaces/Flyable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/interfaces/IntefaceRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/interfaces/IntefaceRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/interfaces/InterfaceExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/interfaces/InterfaceExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/oops/interfaces/InterfaceWithMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/oops/interfaces/InterfaceWithMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/operators/IncrementAndDecrementOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/operators/IncrementAndDecrementOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/operators/InstanceOfExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/operators/InstanceOfExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/operators/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/operators/LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/operators/RelationalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/operators/RelationalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/operators/StringConcatenationExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/operators/StringConcatenationExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/operators/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/operators/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/others/PrintfExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/others/PrintfExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/others/SameType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/others/SameType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/others/assertexample/AssertExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/others/assertexample/AssertExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/others/date/CalendarExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/others/date/CalendarExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/others/date/DateExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/others/date/DateExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/others/garbagecollection/GarbageCollectionExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/others/garbagecollection/GarbageCollectionExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/others/regularexpressions/RegularExpressionExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/others/regularexpressions/RegularExpressionExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/serialization/SerializationExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/serialization/SerializationExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/serialization/SerializationExamples2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/serialization/SerializationExamples2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/serialization/SerializationExamples3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/serialization/SerializationExamples3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/string/StringBufferBuilderExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/string/StringBufferBuilderExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/string/StringExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/string/StringExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/threads/ExecutorServiceExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/threads/ExecutorServiceExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/threads/ThreadDeadlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/threads/ThreadDeadlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/threads/ThreadExampleSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/threads/ThreadExampleSynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/threads/ThreadExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/threads/ThreadExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/threads/ThreadPriority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/threads/ThreadPriority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/threads/ThreadWaitAndNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/threads/ThreadWaitAndNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/varargs/VariableArgumentExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/varargs/VariableArgumentExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/variables/PassingVariablesToMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/variables/PassingVariablesToMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/variables/StaticAndMemberVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/variables/StaticAndMemberVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/variables/VariableInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/variables/VariableInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/variables/scope/VariablesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/variables/scope/VariablesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/com/nishith/java/wrapper/WrapperExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/in28minutes/java/wrapper/WrapperExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/test/java/LambdaExpressionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LambdaExpressionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/test/java/StringVsStringBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StringVsStringBuffer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,8 +351,38 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CollectionExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.java.collections.examples.CollectionExamples" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.java.collections.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CollectionExamples" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -137,5 +394,20 @@
       <updated>1632572996951</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix compilation issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix compilation issues" />
   </component>
 </project>
